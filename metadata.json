@@ -6,7 +6,11 @@
     "inclusion_criteria": [
         "reports results from whole-brain contrasts"
     ],
-    "search_to_pmids": {},
+    "search_to_pmids": {
+        "(pain[Title/Abstract] AND fmri[Title/Abstract]) AND (\"1995/01/01\"[PDAT] : \"1995/12/31\"[PDAT])": [
+            "8742480"
+        ]
+    },
     "tags": [
         "Pain"
     ],
