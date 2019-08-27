@@ -1,0 +1,14 @@
+{
+    "description": "A collection of functional neuroimaging experiments involving experimental pain challenges across modalities (e.g., thermal, electrical, tactile).",
+    "exclusion_criteria": [
+        "review"
+    ],
+    "inclusion_criteria": [
+        "reports results from whole-brain contrasts"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "Pain"
+    ],
+    "unmapped_pmids": []
+}
